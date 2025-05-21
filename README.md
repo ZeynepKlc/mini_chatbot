@@ -51,20 +51,7 @@ Follow the steps below to run the chatbot locally on your machine:
 
 ---
 
-## 💬 Example Conversation
 
-```
-Sen: merhaba
-Bot: Merhaba! Size nasıl yardımcı olabilirim?
-
-Sen: nasılsın?
-Bot: İyiyim, teşekkür ederim. Siz nasılsınız?
-
-Sen: görüşürüz
-Bot: Görüşmek üzere!
-```
-
----
 
 ## 🎯 Use Case & Educational Value
 
